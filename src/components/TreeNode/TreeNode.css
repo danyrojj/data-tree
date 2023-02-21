@@ -1,0 +1,24 @@
+.list-item{
+    background-color: whitesmoke;
+    color: black;
+    width: 200px;
+    
+}
+
+.data-tree .list-item{
+    justify-content: space-between;
+}
+
+.list-item:hover{
+background-color: lightgray;
+border-radius: 5px;
+}
+
+.MuiListItemIcon-root.list-item-icon{
+justify-content: flex-end;
+}
+
+
+.loading-template{
+    color:black
+}

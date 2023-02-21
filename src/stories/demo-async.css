@@ -1,0 +1,7 @@
+.list-item{
+    background-color:white;
+}
+
+.list-item:hover{
+    background-color:rgba(135, 206, 250, 0.337);
+    }

@@ -1,0 +1,6 @@
+.list-item {
+  background-color: rgba(129, 214, 120, 0.056);
+}
+.list-item:hover {
+  background-color: lightgreen;
+}

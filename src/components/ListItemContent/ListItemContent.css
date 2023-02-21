@@ -1,0 +1,14 @@
+.list-item-content{
+    margin-left: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.list-item-content-text{
+    display: flex;
+    flex-direction: column;
+}
+.list-item-content .list-item-content-text>*{
+margin: 0;
+}
